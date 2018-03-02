@@ -1,6 +1,6 @@
 {
-  "name": "adriiilmbotstaff",
-  "description": "Discord bot staff",
+  "name": "Test",
+  "description": "Test",
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
