@@ -1,0 +1,2 @@
+# staffbot
+Staff Bot Discord
